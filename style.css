@@ -8,6 +8,7 @@ h1 {
     color: red;
     text-shadow: 2px 2px;
     z-index: 9;
+    text-align: center;
 }
 
 #part1 {
@@ -32,6 +33,7 @@ p4 {
 
 h2 {
     color: green;
+    text-align: center;
 }
 
 .menu {
